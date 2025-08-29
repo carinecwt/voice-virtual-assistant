@@ -11,5 +11,6 @@ Key features:
 - Built with Python and PyAudio
 
 Acknowledgments:
-This project was adapted from the Codédex tutorial [Create a Voice Virtual Assistant with ElevenLabs]: https://www.codedex.io/projects/create-a-voice-virtual-assistant-with-elevenlabs?mcp_token=eyJwaWQiOjM0NTY3NDgsInNpZCI6MTkzMzAxODU2NCwiYXgiOiJiNWE1ODNlNTA2MTNkMTJkMDIwMDYxNWZlYWU5M2JjYSIsInRzIjoxNzU2MDkyMDkxLCJleHAiOjE3NTg1MTEyOTF9.4xCO28ZCzCiWLIiumADqORIkBKZw5zg8pgCc35tEzfo. 
+This project was adapted from the Codédex tutorial [**Create a Voice Virtual Assistant with ElevenLabs**](https://www.codedex.io/projects/create-a-voice-virtual-assistant-with-elevenlabs). 
 The foundational API integration and conversation setup follow their guide, with additional customizations added for personalized functionality.
+
